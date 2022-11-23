@@ -11,7 +11,7 @@ import NavLink from './NavLink';
       <nav className='container'>
         {props.data.map((obj) => {
           return (
-          <NavLink to={obj.to}>{obj.text}</NavLink>
+          <NavLink key={obj.id} to={obj.to}>{obj.text}</NavLink>
           )
           })}
       
