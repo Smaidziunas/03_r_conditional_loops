@@ -1,0 +1,12 @@
+.NavLink {
+  padding: 0.8em 1.6em;
+  display: inline-block;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+
+.NavLink:hover {
+  background-color: white;
+  color: #333;
+}
