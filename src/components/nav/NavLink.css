@@ -1,4 +1,4 @@
-.NavLink {
+.navLink {
   padding: 0.8em 1.6em;
   display: inline-block;
   font-weight: normal;
@@ -6,7 +6,11 @@
 }
 
 
-.NavLink:hover {
+.navLink:hover {
   background-color: white;
   color: #333;
+}
+
+.navLink.current {
+  border-bottom: 5px solid white;
 }

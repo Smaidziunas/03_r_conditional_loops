@@ -8,15 +8,15 @@ export const showCards = [
   }, //Obj
   { id: 2, 
     img: '/img/paris.jpg', 
-    imgName: 'NewYork image', 
-    title: 'NewYork', date: 'Fri 27 Nov 2016', 
+    imgName: 'Paris image', 
+    title: 'Paris', date: 'Fri 27 Nov 2016', 
     par: 'Praesent tincidunt sed tellus ut rutrum sed vitae justo.', 
     btnText: 'Buy Tickets' 
   }, //Obj
   { id: 3, 
     img: '/img/sanfran.jpg', 
-    imgName: 'NewYork image', 
-    title: 'NewYork', 
+    imgName: 'San Francisco image', 
+    title: 'San Francisco', 
     date: 'Fri 27 Nov 2016', 
     par: 'Praesent tincidunt sed tellus ut rutrum sed vitae justo.', 
     btnText: 'Buy Tickets' 
